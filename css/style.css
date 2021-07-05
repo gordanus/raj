@@ -1631,3 +1631,9 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #28a745;
   }
 }
+
+@media screen and (max-width:600px){
+  #header #logo h1 {
+    font-size: 20px;
+  }
+}
